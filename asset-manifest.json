@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/invictus/static/css/main.ddc77f7e.chunk.css",
+    "main.js": "/invictus/static/js/main.c44e85be.chunk.js",
+    "main.js.map": "/invictus/static/js/main.c44e85be.chunk.js.map",
+    "runtime-main.js": "/invictus/static/js/runtime-main.6f23d7ca.js",
+    "runtime-main.js.map": "/invictus/static/js/runtime-main.6f23d7ca.js.map",
+    "static/js/2.ad6ba6eb.chunk.js": "/invictus/static/js/2.ad6ba6eb.chunk.js",
+    "static/js/2.ad6ba6eb.chunk.js.map": "/invictus/static/js/2.ad6ba6eb.chunk.js.map",
+    "static/js/3.4a9b92fc.chunk.js": "/invictus/static/js/3.4a9b92fc.chunk.js",
+    "static/js/3.4a9b92fc.chunk.js.map": "/invictus/static/js/3.4a9b92fc.chunk.js.map",
+    "index.html": "/invictus/index.html",
+    "static/css/main.ddc77f7e.chunk.css.map": "/invictus/static/css/main.ddc77f7e.chunk.css.map",
+    "static/js/2.ad6ba6eb.chunk.js.LICENSE.txt": "/invictus/static/js/2.ad6ba6eb.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/invictus/static/media/bg.134931c5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f23d7ca.js",
+    "static/js/2.ad6ba6eb.chunk.js",
+    "static/css/main.ddc77f7e.chunk.css",
+    "static/js/main.c44e85be.chunk.js"
+  ]
+}
